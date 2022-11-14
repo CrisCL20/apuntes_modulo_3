@@ -5,7 +5,7 @@
 
 - sum(s<sub>i</sub>) > sum(d<sub>j</sub>):
 	- sum(x<sub>ij</sub>) <= s<sub>ij</sub> <br>**si fuera una restricción tipo = llegamos a una situación de no factibilidad pues no se satisface exactamente la demanda.**</br>
-	- sum(x<sub>ij</sub>) = d<sub>ij</sub>, *j=1,2,3,..*
+	- sum(x<sub>ij</sub>) = d<sub>ij</sub>,&nbsp *j=1,2,3,..*
 	- caso en que se permite sobresatisfacción de demandas:
 		- sum(x<sub>ij</sub>) >= d<sub>ij</sub>, *j=1,2,3,..*
 
